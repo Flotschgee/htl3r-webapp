@@ -1,0 +1,22 @@
+{
+    "name": "htl3r/webapp",
+    "description": "webapp",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Florian Krammer",
+            "email": "flokra13@gmail.com"
+        }
+    ],
+    "require": {
+        "krammer/ball": "^1.0",
+        "typo3fluid/fluid": "^2.5"
+    },
+    "repositories": {
+        "ballpackage": {
+            "type": "vcs",
+            "url": "https://github.com/Flotschgee/phpNach-bung.git"
+        }
+    }
+}
